@@ -1,0 +1,21 @@
+> create app for the busy whoever to order for pickup (or delivery) of items from neighborhood (nearby) delis/bodegas/restaurants to create meals et al
+
+fundamental capabilities allow users to:
+- Search for local restaurants, liquor stores, and laundries that offer delivery and pickup.
+> - Make purchases through the checkout API.
+
+Ongoing revenue share: Earn 25% of net revenue on every order that originates from an app that you create.
+
+> pull inventory info from api
+> display ''
+>
+
+customer story:
+open app
+> all pu ready in 15/30 min
+choose am/pm
+> list of am/pm items >
+choose item
+customize order
+pay for order
+> transaction >
