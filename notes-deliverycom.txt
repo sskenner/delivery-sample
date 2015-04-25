@@ -1,3 +1,11 @@
++++++++++++++
+d.com dev setup w igi2
+? > Git Repo: develop-branch-dbase
+? > manage account using api key .. looks like regular account access
+? > https://developers.delivery.com/wp-login.php
+? > http://sandbox.delivery.com/
+
++++++++++++++
 > create app for the busy whoever to order for pickup (or delivery) of items from neighborhood (nearby) delis/bodegas/restaurants to create meals et al
 
 fundamental capabilities allow users to:
